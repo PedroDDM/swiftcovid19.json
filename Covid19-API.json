@@ -1,17 +1,17 @@
 [
-{
-"country":"Portugal"
-"provinces":[
-{
-"province":"Portugal"
-"confirmed":110574
-"recovered":16847
-"deaths":13155
-"active":80572
-}
-]
-"latitude":41.87194
-"longitude":12.56738
-"date":"2020-04-01"
-}
+  {
+    "country": "Portugal",
+    "provinces": [
+      {
+        "province": "Portugal",
+        "confirmed": 110574,
+        "recovered": 16847,
+        "deaths": 13155,
+        "active": 80572
+      }
+    ],
+    "latitude": 41.87194,
+    "longitude": 12.56738,
+    "date": "2020-04-01"
+  }
 ]
